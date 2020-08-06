@@ -1,1 +1,1 @@
-This repository contains example Jupyter notebooks for the code used in the September 2020 workshop No More Silence: Digital Community Histories of HIV/AIDS, co-presented by the GLBT Historical Society and the UCSF Archives & Special Collections.
+This repository contains example Jupyter notebooks for the code used in the August 2020 workshop No More Silence: Digital Community Histories of HIV/AIDS, co-presented by the GLBT Historical Society and the UCSF Archives & Special Collections.
